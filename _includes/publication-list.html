@@ -1,0 +1,10 @@
+{% for post in site.publications reversed %}
+  {% if post.title contains "MV2UV" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+{% for post in site.publications reversed %}
+  {% unless post.title contains "MV2UV" %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
