@@ -29,21 +29,12 @@ Research Interests
       <h3>MetaPRM: Perception, Reasoning, and Manipulation</h3>
       <p>Embodied Intelligence / World Action Models</p>
     </div>
-    <div class="project-card__videos">
-      <figure class="project-card__video-item">
-        <video class="project-card__video" controls controlsList="nodownload" preload="metadata" playsinline>
-          <source src="http://115.120.31.13:8007/api/v1/files/0d4ddad7-964b-4b49-91d3-79601b1a76a5.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
-      </figure>
-      <figure class="project-card__video-item">
-        <video class="project-card__video" controls controlsList="nodownload" preload="metadata" playsinline>
-          <source src="videos/embodied-demo-v1-web.webm" type="video/webm">
-          <!-- <source src="videos/embodied-demo-v1-web-fixed.mp4" type="video/mp4"> -->
-          Your browser does not support the video tag.
-        </video>
-      </figure>
-    </div>
+    <figure class="project-card__video-item">
+      <video class="project-card__video" controls controlsList="nodownload" preload="metadata" playsinline>
+        <source src="http://115.120.31.13:8007/api/v1/files/0d4ddad7-964b-4b49-91d3-79601b1a76a5.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </figure>
   </article>
 </div>
 
