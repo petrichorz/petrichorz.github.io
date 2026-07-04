@@ -30,10 +30,10 @@ Research Interests
       <p>Embodied Intelligence / World Action Models</p>
     </div>
     <figure class="project-card__video-item">
-      <video class="project-card__video" controls controlsList="nodownload" preload="metadata" playsinline>
-        <source src="http://115.120.31.13:8007/api/v1/files/0d4ddad7-964b-4b49-91d3-79601b1a76a5.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <a class="project-card__video-preview" href="http://115.120.31.13:8007/api/v1/files/0d4ddad7-964b-4b49-91d3-79601b1a76a5.mp4" target="_blank" rel="noopener">
+        <span class="project-card__play-button" aria-hidden="true"></span>
+        <span class="project-card__video-label">Open demo video</span>
+      </a>
     </figure>
   </article>
 </div>
